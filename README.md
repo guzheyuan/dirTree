@@ -1,9 +1,8 @@
 # dirTree
 
-## Description
 以树状图列出目录的内容的nodejs实现，类似于linux下的tree命令
 
-## Examples
+## 例子
 dfs遍历目录得到一个树状的json对象：
 ```
 {
