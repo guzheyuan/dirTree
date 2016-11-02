@@ -1,7 +1,9 @@
 # dirTree
 
+## Description
 以树状图列出目录的内容的nodejs实现，类似于linux下的tree命令
 
+## Examples
 dfs遍历目录得到一个树状的json对象：
 ```
 {
@@ -18,7 +20,6 @@ dfs遍历目录得到一个树状的json对象：
 }
 ```
 
-
 打印树状图：
 ```
 dirTree
@@ -31,3 +32,5 @@ dirTree
   │
   └test.js
 ```
+
+
