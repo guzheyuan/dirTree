@@ -1,6 +1,7 @@
 module.exports = {
-    "name": "dirTree",
-    "path": "./",
-    "ignoreList": [/^\./],
-    "type": "console"
+    "name": "tapAd",
+    "path": "../TyrantdbAPI",
+    "ignoreList": [/^\./, /node_modules/],
+    "type": "console",
+    "outputType": "simple"
 }
