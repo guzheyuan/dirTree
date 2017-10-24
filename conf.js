@@ -1,6 +1,6 @@
 module.exports = {
-    "name": "Koler",
-    "path": "../../Nodejs/Koler",
+    "name": "tapAd",
+    "path": "../TyrantdbAPI",
     "ignoreList": [/^\./, /node_modules/],
     "type": "console",
     "outputType": "simple"
