@@ -6,15 +6,15 @@
 ```
 dirTree  －－－－－－根目录
   │
-  ├lib  －－－－－－相关函数目录
+  ├─lib  －－－－－－相关函数目录
   │  │
-  │  └dirTree.js  －－－－－－相关函数接口
+  │  └─dirTree.js  －－－－－－相关函数接口
   │
-  ├README.md  －－－－－－说明文档
+  ├─README.md  －－－－－－说明文档
   │
-  ├conf.js  －－－－－－配置文件
+  ├─conf.js  －－－－－－配置文件
   │
-  └tree.js  －－－－－－入口文件
+  └─tree.js  －－－－－－入口文件
 ```
 
 ## 例子
@@ -54,15 +54,15 @@ node tree.js
 ```
 dirTree
   │
-  ├lib
+  ├─lib
   │  │
   │  └dirTree.js
   │
-  ├README.md
+  ├─README.md
   │
-  ├conf.js
+  ├─conf.js
   │
-  └tree.js
+  └─tree.js
 ```
 
 
